@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+
+# The executable
+get-cap
